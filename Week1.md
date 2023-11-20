@@ -2,8 +2,8 @@
 
 Я сразу выбрал микросервисную архитектуру.
 
-[Models](https://miro.com/app/board/uXjVNNW5fPU=/?share_link_id=134937356111)
-ES
+- [Models](https://miro.com/app/board/uXjVNNW5fPU=/?share_link_id=134937356111)
+- [ES](https://github.com/aberkromb/SystemAnalysisHomeWorks/blob/main/ESWeek1.pdf)
 
 Почему? :
 
