@@ -18,7 +18,6 @@ Number | Bound context
 Платежи | нет | да | нет | - | низкий | generic
 Postmortems | да | нет | нет | - | низкий | supporting
 Betting | нет | нет | нет | - | низкий | supporting
-Сборка расходных материалов | нет | нет | да | - | низкий | supporting
-Печеньки | нет | нет | нет | заказать у поставщика | низкий | generic
+Equipment | нет | нет | нет | - | низкий | generic
 Matcher | да | да | да | - | высокий | core 
 Calculator | да | да | да | - | высокий | supporting
