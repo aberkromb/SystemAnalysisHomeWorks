@@ -1,5 +1,8 @@
 ## Вторая домашка
 
+В первой домашке я поторопился и вынес поддомены (матчер и кулькулятор) из заказов, после разбора домашки первой и второго урока решил вернуть обратно. В остальном осталось без измений.
+
+
 - [Miro](https://miro.com/app/board/uXjVNNW5fPU=/?share_link_id=134937356111)
 - [ES](https://github.com/aberkromb/SystemAnalysisHomeWorks/blob/main/Week2/ESWeek2.pdf)
 - [Core diagram](https://github.com/aberkromb/SystemAnalysisHomeWorks/blob/main/Week2/core%20domain%20diagram.png)
