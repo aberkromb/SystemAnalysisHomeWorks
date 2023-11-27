@@ -1,6 +1,6 @@
 ## Вторая домашка
 
-- []
+- [Miro](https://miro.com/app/board/uXjVNNW5fPU=/?share_link_id=134937356111)
 - [ES](https://github.com/aberkromb/SystemAnalysisHomeWorks/blob/main/Week2/ESWeek2.pdf)
 - [Core diagram](https://github.com/aberkromb/SystemAnalysisHomeWorks/blob/main/Week2/core%20domain%20diagram.png)
 
