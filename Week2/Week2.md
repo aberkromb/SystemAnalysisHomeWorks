@@ -1,7 +1,7 @@
 ## Вторая домашка
 
 - [Models](https://miro.com/app/board/uXjVNNW5fPU=/?share_link_id=134937356111)
-
+- [Core diagram](https://github.com/aberkromb/SystemAnalysisHomeWorks/blob/main/Week2/core%20domain%20diagram.png)
 
 ### Поддомены
 
