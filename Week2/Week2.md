@@ -1,6 +1,7 @@
 ## Вторая домашка
 
-- [Models](https://github.com/aberkromb/SystemAnalysisHomeWorks/blob/main/Week2/ESWeek2.pdf)
+- []
+- [ES](https://github.com/aberkromb/SystemAnalysisHomeWorks/blob/main/Week2/ESWeek2.pdf)
 - [Core diagram](https://github.com/aberkromb/SystemAnalysisHomeWorks/blob/main/Week2/core%20domain%20diagram.png)
 
 ### Поддомены
