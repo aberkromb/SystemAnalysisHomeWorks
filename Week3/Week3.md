@@ -2,8 +2,6 @@
 
 # ОПРЕДЕЛИЛИСЬ С ХОТЕЛКАМИ ПО МАТЧИНГУ 
 
-- [Miro](https://miro.com/app/board/uXjVNNW5fPU=/?share_link_id=134937356111)
-- [ES](https://github.com/aberkromb/SystemAnalysisHomeWorks/blob/main/Week2/ESWeek2.pdf)
 - [Матрица стейкхолдеров](https://github.com/aberkromb/SystemAnalysisHomeWorks/blob/main/Week3/Матрица%20стейкхолдеров.pdf)
 
 **Стейкхолдеры** | **Консерны** | ****
