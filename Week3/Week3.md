@@ -54,6 +54,6 @@ MFC heroes (рабочие) | Evolveability, Modifiability, Maintainability, Agi
 Postmortems | - | На мой взгляд сервис не требует большого вклада в себя, можно посадить джунов, т.к. коммуникация асинхронная, то мы можем спокойно, в фоне, проводить необходимые работы и развитие сервиса, никак не влияя на остальную систему. 
 Betting | - | Менеджеры хотят спрятать сервис, можем посадить джунов
 Equipment | - | Можно посадить джунов пилить. На первый взгляд других характеристик выделить не могу, но есть опасения что со временем бизнес решит как-то разививать сборку материалов (чек листы, таргетирование под клиентов, не только печеньку, но и шоколадку)
-Matcher | Modifiability, Agility, Testability, Maintainability, Deployability, Simplicity, Workflow | Есть консерны, требуется pipeline для работы
+Matcher | Modifiability, Agility, Testability, Maintainability, Deployability, Simplicity, Workflow | Хотят map-reduce
 Calculator | - | -
 Заказы | Scalability, Elasticity, Modifiability, Maintainability | Растет нагрузка, надо масштабироваться, поддомен является core
