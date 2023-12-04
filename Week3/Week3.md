@@ -3,6 +3,7 @@
 
 - [Матрица стейкхолдеров](https://github.com/aberkromb/SystemAnalysisHomeWorks/blob/main/Week3/Матрица%20стейкхолдеров.pdf)
 - [Miro](https://miro.com/app/board/uXjVNNW5fPU=/?share_link_id=134937356111)
+- [ADR-001](https://github.com/aberkromb/SystemAnalysisHomeWorks/blob/main/Week3/ADR-001.md)
 
 
 **Стейкхолдеры** | **Консерны** | ****
