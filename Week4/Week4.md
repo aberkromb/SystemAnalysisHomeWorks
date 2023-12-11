@@ -9,5 +9,5 @@ Instability(entity-service Воркеров) = 1 / 1 + 5 = 0.16
 #### После объединения
 Instability(entity-service Воркеров) = 0 / 5 = 0
 
-[Схема объединения сервисов
-](https://github.com/aberkromb/SystemAnalysisHomeWorks/blob/main/Week4/MergeWorkersAndScoring.png)https://github.com/aberkromb/SystemAnalysisHomeWorks/blob/main/Week4/MergeWorkersAndScoring.png
+
+[Схема объединения сервисов](https://github.com/aberkromb/SystemAnalysisHomeWorks/blob/main/Week4/MergeWorkersAndScoring.png)
