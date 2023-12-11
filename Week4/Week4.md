@@ -19,3 +19,9 @@
 - Instability(Система ставок менеджмента happy cat box) = 0 / 2 = 0
 
 [План работ для объединения сервисов](https://github.com/aberkromb/SystemAnalysisHomeWorks/blob/main/Week4/MergeWorkersAndScoring.png)
+
+
+### Шаг 2
+Вынести "интелектуальный Матчинг сотрудников и клиентов" в отдельный сервис. 
+Можно воспользоваться паттерном Strangler Fig Application.
+
