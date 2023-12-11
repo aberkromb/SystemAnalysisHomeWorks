@@ -24,4 +24,4 @@
 ### Шаг 2
 Вынести "интелектуальный Матчинг сотрудников и клиентов" в отдельный сервис. 
 Можно воспользоваться паттерном Strangler Fig Application.
-
+[План работ для выноса сервиса](https://github.com/aberkromb/SystemAnalysisHomeWorks/blob/main/Week4/ExtractMatcher.png)
